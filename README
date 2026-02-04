@@ -1,0 +1,35 @@
+Strong Password Checker (Java)
+
+A Java console application that evaluates the strength of passwords and gives real-time feedback. Helps users create secure passwords using uppercase, lowercase, numbers, special characters, and minimum length rules.
+
+Project Overview
+
+This project demonstrates Java programming, regex, and conditional logic. It scores passwords based on multiple criteria and categorizes them as Weak, Medium, Strong, or Very Strong.
+
+Features
+
+Check password strength with clear feedback
+
+Evaluates multiple criteria:
+
+Minimum 8 characters
+
+Uppercase letters
+
+Lowercase letters
+
+Numbers
+
+Special characters
+
+Interactive console interface
+
+Categorizes password strength (Weak → Very Strong)
+
+Technologies Used
+
+Java 8+
+
+Regular Expressions (Regex)
+
+Console-based input/output
