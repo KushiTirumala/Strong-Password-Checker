@@ -1,4 +1,4 @@
-Strong Password Checker (Java)
+Password Strength Analyzer
 
 A Java console application that evaluates the strength of passwords and gives real-time feedback. Helps users create secure passwords using uppercase, lowercase, numbers, special characters, and minimum length rules.
 
